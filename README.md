@@ -1,4 +1,5 @@
 # Does coordination between LLM agents travel through what they say?
+(This README is AI-generated for now, I'll change it later.)
 
 Study C of *Chain-of-Thought Faithfulness Under Catastrophic Forgetting and in
 Multi-agent Coordination Using Causal Interventions* (ICEMIR 2026).
